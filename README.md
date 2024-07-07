@@ -17,7 +17,7 @@ Made via HTML, CSS, Vanilla JavaScript & OpenWeatherMap API
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/mohith174/weather-app.git
     ```
 
 2. Navigate to the project directory:
